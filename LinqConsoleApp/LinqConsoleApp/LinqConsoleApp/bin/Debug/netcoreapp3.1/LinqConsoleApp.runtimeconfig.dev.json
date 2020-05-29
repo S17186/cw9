@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Franka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Franka\\.nuget\\packages"
+    ]
+  }
+}
